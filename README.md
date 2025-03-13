@@ -23,5 +23,5 @@
 
 -->
 
-![GitHub commit status](https://img.shields.io/github/checks-status/songshinyoung/songshinyoung/.git)
+![GitHub commit status](https://img.shields.io/github/checks-status/songshinyoung/songshinyoung/9a63db64cb11ae9cd59cda309278d7256ecfde3e)
 
