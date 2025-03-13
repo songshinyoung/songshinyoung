@@ -22,3 +22,6 @@
 </p>
 
 -->
+
+![GitHub commit status](https://img.shields.io/github/checks-status/songshinyoung/songshinyoung/.git)
+
