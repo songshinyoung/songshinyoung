@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<--
+<!--
 <p align="center">
     <a href="" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
