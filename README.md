@@ -9,12 +9,9 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 - Module Memory Test Handler
 - Plasma Post-Process Equipment
 - Various Other Automation and Measurement Equipment
-<br>
 
 ### Main clients
 - SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
-
-<br>
 
 <h3>Things I code with</h3>
 <p>
