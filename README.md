@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    <a href="https://shields.io/community#backers" alt="Backers on Open Collective">
+    <a href="" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
     <a href="https://shields.io/community#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
