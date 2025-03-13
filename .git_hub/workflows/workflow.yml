@@ -1,1 +1,24 @@
-test
+name: Commit Check
+
+on:
+  push:
+    branches:
+      - main  # 체크할 브랜치명
+
+jobs:
+  commit-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Check commit message
+      run: |
+        if [[ -z "$(git log -1 --pretty=%B)" ]]; then
+          echo "Empty commit message detected!"
+          exit 1
+        else
+          echo "Commit message check passed!"
+        fi
+
