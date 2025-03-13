@@ -10,10 +10,10 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 - Plasma Post-Process Equipment
 - Various Other Automation and Measurement Equipment
 
-<h3>Main clients</h3>
+### :office: Main clients
 - SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
 
-<h3>Things I code with</h3>
+### :hammer: Things I code with
 <p>
   <img alt="C++ Builder" src="https://img.shields.io/badge/-C++ Builder-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=white" />
   <img alt="Ros2" src="https://img.shields.io/badge/-ROS2-45b8d8?style=flat-square&logo=ros&logoColor=black" />
@@ -25,7 +25,7 @@ I mainly develop automation equipment used in semiconductor production lines.<br
  
 </p>
 
-<h3>Where to find me</h3>
+### :email: Where to find me
 <p>
   <a href="https://github.com/songshinyoung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/ShinyoungSong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
