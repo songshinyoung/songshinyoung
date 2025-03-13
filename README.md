@@ -1,3 +1,6 @@
+Therefore, there is now no condemnation for those who are in Christ Jesus,<br>
+because through Christ Jesus the law of the Spirit of life set me free from the law of sin and death.
+
 ## :smiley: Hi there
 
 Welcome to my page!<br> 
