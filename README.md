@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<--
 <p align="center">
     <a href="" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
@@ -19,3 +20,5 @@
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord&logoColor=white"
             alt="Chat on Discord"></a>
 </p>
+
+-->
