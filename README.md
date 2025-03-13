@@ -1,7 +1,7 @@
 Therefore, there is now no condemnation for those who are in Christ Jesus,<br>
 because through Christ Jesus the law of the Spirit of life set me free from the law of sin and death. <br>
 <i>그러므로 이제 그리스도 예수 안에 있는 자에게는 결코 정죄함이 없나니 <br>
-이는 그리스도 예수 안에 있는 생명의 성령의 법이 죄와 사망의 법에서 너를 해방하였음이라. </i><br>
+이는 그리스도 예수 안에 있는 생명의 성령의 법이 죄와 사망의 법에서 너를 해방하였음이라. 롬 8:1-2</i><br>
 
 ## :smiley: Hi there
 
