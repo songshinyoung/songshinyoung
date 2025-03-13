@@ -21,6 +21,9 @@ I mainly develop automation equipment used in semiconductor production lines.<br
   <img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" />
   <img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" />
   <img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" />
+  <img alt="Panasonic" src="https://img.shields.io/badge/-Panasonic-45b8d8?style=flat-square&logo=panasonic&logoColor=red" />
+
+  
 </p>
 <br>
 
