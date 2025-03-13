@@ -10,7 +10,7 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 - Plasma Post-Process Equipment
 - Various Other Automation and Measurement Equipment
 
-### Main clients
+<h3>Main clients</h3>
 - SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
 
 <h3>Things I code with</h3>
@@ -21,8 +21,6 @@ I mainly develop automation equipment used in semiconductor production lines.<br
   <img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" />
   <img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" />
   <img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" />
-
-  
 </p>
 <br>
 
