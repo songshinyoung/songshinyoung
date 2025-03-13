@@ -1,7 +1,32 @@
-## Hi there 👋
+## :smiley: Hi there
 
-Welcome to this place. 
-I am a C++ programmer living in Cheonan, <img src="images/south-korea.png" width="13"/>Korea.
+Welcome to my page!<br> 
+I am a <b>C++</b> programmer living in Cheonan, <img src="images/south-korea.png" width="14"/><b>Korea</b>. <br>
+I mainly develop automation equipment used in semiconductor production lines.<br>
+- Memory Test Handler
+- Logic IC Test Handler
+- Secondary Battery Manufacturing Equipment
+- Module Memory Test Handler
+- Plasma Post-Process Equipment
+- Various Other Automation and Measurement Equipment
+<br>
+
+### Main clients
+- SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
+
+<br>
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="C++ Builder" src="https://img.shields.io/badge/-C++ Builder-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=white" />
+  <img alt="Ros2" src="https://img.shields.io/badge/-ROS2-45b8d8?style=flat-square&logo=ros&logoColor=black" />
+  <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-45b8d8?style=flat-square&logo=opengl&logoColor=white" />
+  <img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" />
+  <img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" />
+  <img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" />
+
+  
+</p>
+<br>
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/songshinyoung/songshinyoung/.github/workflows/blank.yml)
-
