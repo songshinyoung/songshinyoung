@@ -1,4 +1,4 @@
-## :smiley: Hi there
+## :smiley: Hi there  ╰(*°▽°*)╯
 
 <img align='right' src="images/image_fx_BassCode.png" width="400">
 
