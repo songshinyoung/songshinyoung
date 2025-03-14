@@ -22,6 +22,7 @@ I mainly develop automation equipment used in semiconductor production lines.<br
   <img alt="python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=Black" />
   <img alt="Ros2" src="https://img.shields.io/badge/-ROS2-45b8d8?style=flat-square&logo=ros&logoColor=black" />
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-45b8d8?style=flat-square&logo=opengl&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=blender&logoColor=orange" />
   <img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" />
   <img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" />
   <img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" />
