@@ -1,3 +1,24 @@
+<table style="width:100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width:70%; border: none;">
+      <!-- Left content -->
+      Welcome to my page!<br> 
+      I am a <b>C++</b> programmer living in Cheonan, <img src="images/south-korea.png" width="14"/><b>Korea</b>. <br>
+      I mainly develop automation equipment used in semiconductor production lines.<br>
+      - Memory Test Handler
+      - Logic IC Test Handler
+      - Secondary Battery Manufacturing Equipment
+      - Module Memory Test Handler
+      - Plasma Post-Process Equipment
+      - Various Other Automation and Measurement Equipment
+    </td>
+    <td style="width:30%; border: none;">
+      <!-- Image on the right -->
+      <img src="images/bass_imageFX_2.jpg" alt="Image Description" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## :smiley: Hi there
 
 Welcome to my page!<br> 
