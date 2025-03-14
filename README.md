@@ -1,6 +1,6 @@
 ## :smiley: Hi there
 
-<img align='right' src="images/bass_imageFX.png" width="200">
+<img align='right' src="images/image_fx_BassCode.jpg" width="400">
 
 Welcome to my page!<br> 
 I am a <b>C++</b> programmer living in Cheonan, <img src="images/south-korea.png" width="14"/><b>Korea</b>. <br>
