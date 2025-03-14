@@ -1,14 +1,17 @@
 ## :smiley: Hi there
 
+<img align='right' src="images/bass_imageFX.png" width="200">
+
 Welcome to my page!<br> 
 I am a <b>C++</b> programmer living in Cheonan, <img src="images/south-korea.png" width="14"/><b>Korea</b>. <br>
 I mainly develop automation equipment used in semiconductor production lines.<br>
-- Memory Test Handler
+- Memory Test Handler 
 - Logic IC Test Handler
 - Secondary Battery Manufacturing Equipment
 - Module Memory Test Handler
 - Plasma Post-Process Equipment
 - Various Other Automation and Measurement Equipment
+
 
 ### :office: Main clients
 - SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
