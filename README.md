@@ -18,7 +18,8 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 
 ### :hammer: Things I code with
 <p>
-  <img alt="C++ Builder" src="https://img.shields.io/badge/-C++ Builder-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=white" />
+  <img alt="C++ Builder" src="https://img.shields.io/badge/-C++ Builder-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=red" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=Black" />
   <img alt="Ros2" src="https://img.shields.io/badge/-ROS2-45b8d8?style=flat-square&logo=ros&logoColor=black" />
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-45b8d8?style=flat-square&logo=opengl&logoColor=white" />
   <img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" />
