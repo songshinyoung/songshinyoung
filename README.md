@@ -40,6 +40,10 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 <br>
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/songshinyoung/songshinyoung/.github/workflows/blank.yml)
+![GitHub User's stars](https://img.shields.io/github/stars/songshinyoung)
+![GitHub followers](https://img.shields.io/github/followers/songshinyoung)
+
+
 
 <br>
 Therefore, there is now no condemnation for those who are in Christ Jesus,<br>
