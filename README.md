@@ -10,8 +10,9 @@ I mainly develop automation equipment used in semiconductor production lines.<br
 - Secondary Battery Manufacturing Equipment
 - Module Memory Test Handler
 - Plasma Post-Process Equipment
-- Various Other Automation and Measurement Equipment
+- Various Other Automation and Measurement Equipment 
 
+And I like fishing.
 
 ### :office: Main clients
 - SAMSUNG, PSK, LT, TurboCATS, TSI, ITM, SOLID MECA, ...
