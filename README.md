@@ -1,4 +1,4 @@
-## :smiley: Hi there  ╰(*°▽°*)╯ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Animated-Flag-South-Korea.gif" width="60"/> 
+## :smiley: Hi there  ╰(*°▽°*)╯<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Animated-Flag-South-Korea.gif" width="50"/> 
 
 <img align='right' src="images/image_fx_BassCode.png" width="400">
 
