@@ -1,9 +1,9 @@
-## :smiley: Hi there  ╰(*°▽°*)╯
+## :smiley: Hi there  ╰(*°▽°*)╯ <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Animated-Flag-South-Korea.gif" width="60"/> 
 
 <img align='right' src="images/image_fx_BassCode.png" width="400">
 
 Welcome to my page!<br> 
-I am a <b>C++</b> programmer living in <b>Cheonan</b>, <img src="images/태극기 600x400.jpg" width="22"/><b>Korea</b>. <br>
+I am a <b>C++</b> programmer living in <b>Cheonan</b>, <img src="images/태극기 600x400.jpg" width="22"/><b>Korea</b>.   <br>
 I mainly develop automation equipment used in semiconductor production lines.<br>
 - Memory Test Handler 
 - Logic IC Test Handler
