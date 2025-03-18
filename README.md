@@ -27,7 +27,7 @@ And I like fishing.
   <a href="https://www.mitsubishielectric.com" target="_blank"><img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" /></a>
   <a href="https://www.comizoa.com" target="_blank"><img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" /></a>
   <a href="https://www.keyence.co.kr" target="_blank"><img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" /></a>
-  <a href="https://www.panasonic.co.kr" target="_blank"><img alt="Panasonic" src="https://img.shields.io/badge/-Panasonic-45b8d8?style=flat-square&logo=panasonic&logoColor=red" /></a>
+  <a href="https://industry.panasonic.com/kr/ko/products/motor/fa-motor/ac-servo" target="_blank"><img alt="Panasonic" src="https://img.shields.io/badge/-Panasonic-45b8d8?style=flat-square&logo=panasonic&logoColor=red" /></a>
  
 </p>
 
