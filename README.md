@@ -24,7 +24,7 @@ And I like fishing.
   <a href="https://www.ros.org" target="_blank"><img alt="Ros2" src="https://img.shields.io/badge/-ROS2-45b8d8?style=flat-square&logo=ros&logoColor=black" /></a>
   <a href="https://www.opengl.org" target="_blank"><img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-45b8d8?style=flat-square&logo=opengl&logoColor=white" /></a>
   <a href="https://www.blender.org" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=blender&logoColor=orange" /></a>
-  <a href="https://www.mitsubishielectric.com" target="_blank"><img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" /></a>
+  <a href="https://kr.mitsubishielectric.com/fa/ko/index.do" target="_blank"><img alt="Mitsubishi" src="https://img.shields.io/badge/-Mitsubish-45b8d8?style=flat-square&logo=mitsubishi&logoColor=red" /></a>
   <a href="https://www.comizoa.com" target="_blank"><img alt="COMIZOA" src="https://img.shields.io/badge/-COMIZOA-45b8d8?style=flat-square&logo=COMIZOA&logoColor=red" /></a>
   <a href="https://www.keyence.co.kr" target="_blank"><img alt="Keyence" src="https://img.shields.io/badge/-Keyence-45b8d8?style=flat-square&logo=Keyence&logoColor=red" /></a>
   <a href="https://industry.panasonic.com/kr/ko/products/motor/fa-motor/ac-servo" target="_blank"><img alt="Panasonic" src="https://img.shields.io/badge/-Panasonic-45b8d8?style=flat-square&logo=panasonic&logoColor=red" /></a>
