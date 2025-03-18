@@ -46,6 +46,7 @@ And I like fishing.
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/songshinyoung/songshinyoung/.github/workflows/blank.yml)
 ![GitHub User's stars](https://img.shields.io/github/stars/songshinyoung)
 ![GitHub followers](https://img.shields.io/github/followers/songshinyoung)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=songshinyoung.songshinyoung)
 
 
 
