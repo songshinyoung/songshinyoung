@@ -36,11 +36,15 @@ And I like fishing.
   <!---
   <a href="https://github.com/songshinyoung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/ShinyoungSong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/songshinyoung77"><img src="https://img.shields.io/badge/instagram/ShinyoungSong.svg?style=social" /></a>
   --->
-  <a href="https://twitter.com/ShinyoungSong"><img src="https://img.shields.io/twitter/follow/ShinyoungSong.svg?style=social" /> </a>
+  <a href="https://twitter.com/ShinyoungSong"><img src="https://img.shields.io/twitter/follow/ShinyoungSong.svg?style=social" height="23"></a> <br>
+  <a href="https://www.instagram.com/songshinyoung77"><img src="https://img.shields.io/badge/Instagram-dfdfdf?style=for-the-badge&logo=instagram&logoColor=black&labelColor=ff69b4" alt="Instagram"></a>
+
+
 </p>
 
-
+## 
 <br>
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/songshinyoung/songshinyoung/.github/workflows/blank.yml)
